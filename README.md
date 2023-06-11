@@ -46,4 +46,3 @@ run command:
 > make offline-container
 > make online-container
 > go run cmd/orderfe/order.go
-# go-orderms
